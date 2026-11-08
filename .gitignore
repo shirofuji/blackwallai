@@ -1,0 +1,5 @@
+node_modules/
+*.macro.js
+password
+*.password
+.env
